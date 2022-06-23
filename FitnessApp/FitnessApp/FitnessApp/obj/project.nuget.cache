@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V5hhIPXrQbRh6btAhrFzzFgy3DSS9LOh22LbIKGn4S2Rp4oVMdc+gqf0NmU/qRb0kwNIDBU5/PYNEYVHhNbWKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Morten\\source\\repos\\The-Hest\\fitnessapp\\FitnessApp\\FitnessApp\\FitnessApp\\FitnessApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Morten\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Morten\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Morten\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Morten\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Morten\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
